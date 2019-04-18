@@ -11,6 +11,8 @@ namespace LoginEx
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+
+///other branch
     public partial class App : Application
     {
     }
