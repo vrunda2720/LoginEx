@@ -11,6 +11,8 @@ namespace LogowithImage
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+
+///Hiiii
     public partial class App : Application
     {
     }
